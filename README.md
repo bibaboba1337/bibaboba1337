@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bibaboba1337
 - 👀 I’m interested in gamedev, especially in Unity
 - 🌱 I’m currently learning Unity, C#
-- 💞️ I’m looking to collaborate on (sorry, didn't get it yet)
+- 💞️ I’m looking to collaborate on indy mobile (or dekstop) games development
 - 📫 you can reach me via e-mail on rafael.abdullin111@gmail.com
 
 <!---
